@@ -1,0 +1,14 @@
+# Site settings
+title: Procurement Analytics
+description: Providing analysis of public procurement data to improve outcomes.
+baseurl: ""
+url: "http://procuremet-analytics.org" # the base hostname & protocol for your site
+github_username:  procurement-analytics
+email: info@procurement-analytics.org
+
+# Build settings
+markdown: kramdown
+
+collections:
+  documentation:
+    output: true
