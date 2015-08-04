@@ -103,7 +103,27 @@
     }
 }
 
+ul li {
+  list-style-type: square;
+}
 
+.sub-nav li, .contact-list li, .social-media-list li {
+  list-style-type: none;
+}
+
+.img-caption-wrapper {
+  display: block;
+  img, span.caption {
+    float:left;
+    clear:both;
+  }
+  img {
+    box-shadow:0 0 6px #666666;
+  }
+  span.caption {
+    font-size:0.8em;
+  }
+}
 
 /**
  * Site footer
