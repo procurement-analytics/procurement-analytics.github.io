@@ -328,3 +328,13 @@ nav.sub-nav {
   text-decoration: none !important; // do not underline
   opacity: 1;
 }
+
+hr {
+  border: 0;
+  height: 1px;
+  background: $base-color;
+  opacity: 0.08;
+  width: 80%;
+  max-width: 25rem;
+  margin: 3rem auto;
+}
