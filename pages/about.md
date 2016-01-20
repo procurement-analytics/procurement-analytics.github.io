@@ -6,9 +6,7 @@ order: 2
 published: true
 ---
 
-
-
-The Data Analytics in Procurement Program of the [World Bank](http://worldbank.org) aims to achieve better development outcomes from public procurement through the utilization of data and information technology.
+The Data Analytics in Procurement Program of the [World Bank](http://worldbank.org) aims to achieve better development outcomes from public procurement through the utilization of data and information technology. You can contact us at: <team@procurement-analytics.org>
 
 ### The challenge
 
@@ -51,7 +49,7 @@ and three dimensions of **outcomes**:
 - public service delivery 
 - private sector development
 
-These dimensions have been identified based on initial requests from country clients and the World Bank. 
+These dimensions have been identified based on initial requests from country clients and the World Bank.
 
 ### Credits
 
