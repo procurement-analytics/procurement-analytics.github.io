@@ -7,7 +7,7 @@ order: 2
 
 The Data Analytics in Procurement Program is aimed at achieving better outcomes in public procurement through the utilization of data and information technology.
 
-It is funded by the [World Bank](http://worldbank.org).
+It is funded by the [World Bank](http://worldbank.org). You can contact us at: <team@procurement-analytics.org>
 
 ### Credits
 
