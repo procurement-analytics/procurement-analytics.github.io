@@ -49,9 +49,7 @@ and three dimensions of **outcomes**:
 - public service delivery 
 - private sector development
 
-These dimensions have been identified based on initial requests from country clients and the World Bank. 
->>>>>>> 0283c5c17961be1ac928f3d034d1dd2e555434d3
->>>>>>> External Changes
+These dimensions have been identified based on initial requests from country clients and the World Bank.
 
 ### Credits
 
