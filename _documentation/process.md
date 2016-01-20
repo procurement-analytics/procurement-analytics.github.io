@@ -1,13 +1,13 @@
 ---
 layout: documentation
-title: Process for data analytics development
+title: Process for data analytics production
 permalink: /documentation/process/
 order: 1
 ---
 
 *Draft, January 2016*
 
-The aim of this document is to help streamline the production of data analytics production in specific countries. It should help make the initial data request simpler and more efficient, as well as make it easier to move through the steps from initial data request, to analysis, to presentation.
+The aim of this document is to help streamline the production of data analytics. It should help make the initial data request simpler and more efficient, as well as make it easier to move through the steps from initial data request, to analysis, to presentation.
 
 It should not be seen as a set of rules that must be followed in the production of any analysis, and it should also definitely not discourage experimentation or innovation. Rather, it should be seen as a rough summary of our evolving thinking on how to go about this process. It should help as a guide to producing data analytics in new country contexts but will remain a draft or living document for some time as we learn how best to do this.
 
